@@ -3,8 +3,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohamad idham bahri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamad idham bahri" height="30" width="40" /></a>
-<a href="https://fb.com/idham tamvanz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="idham tamvanz" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohamad-idham-bahri-679201222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamad idham bahri" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ilham.fhx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="idham tamvanz" height="30" width="40" /></a>
 <a href="https://instagram.com/idham_tamvanz123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="idham_tamvanz123" height="30" width="40" /></a>
 </p>
 
