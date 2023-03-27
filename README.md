@@ -5,17 +5,17 @@
 ## 📊 My Github Statistics
 
 <a href="https://github.com/Idhamm15">
-<img alt="Idhamm15's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=faisalalm01&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
+<img alt="Idhamm15's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Idhamm15&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
 </a>
 
 <a href="https://github.com/Idhamm15">
-<img alt="Idhamm15's Github Stats" src="https://github-readme-stats.vercel.app/api?username=faisalalm01&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+<img alt="Idhamm15's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Idhamm15&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
 
 ## 🚀 Languages and Tools:
 
 <a href="https://github.com/Idhamm15">
-<img alt="faisalalm01's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalalm01&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+<img alt="Idhamm15's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Idhamm15&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
 
 
