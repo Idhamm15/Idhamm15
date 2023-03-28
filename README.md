@@ -27,14 +27,14 @@
 
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/idham_tamvanz123)
 
-  [website](https://website-profile.netlify.app)
+  [my website profile](https://idhamm15.github.io/mohamad.idham.bahri/)
 </p>
 
 <!-- [<img align="left" src="https://res.cloudinary.com/dp0f1pzsf/image/upload/v1627389512/sosmed/Group_1_avhmvt.svg"/>](https://instagram.com/idham_tamvanz123)
 [<img align="left" src="https://res.cloudinary.com/dp0f1pzsf/image/upload/v1627390442/sosmed/Group_2_hbbgwm.svg"/>](https://www.facebook.com/)
 [<img align="left" src="https://res.cloudinary.com/dp0f1pzsf/image/upload/v1627390442/sosmed/Group_3_lovdgp.svg"/>](https://www.github.com/Idhamm15) -->
 
-<!-- **faisalalm01/Idhamm15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **Idhamm15/Idhamm15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
