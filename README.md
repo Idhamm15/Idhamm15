@@ -8,9 +8,9 @@
 <img alt="Idhamm15's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Idhamm15&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
 </a>
 
-<a href="https://github.com/Idhamm15">
+<!-- <a href="https://github.com/Idhamm15">
 <img alt="Idhamm15's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Idhamm15&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
+</a> -->
 
 ## 🚀 Languages and Tools:
 
